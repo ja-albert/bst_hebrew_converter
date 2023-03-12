@@ -1,0 +1,95 @@
+ASCII,Unicode,Name,Code,Diakritisch
+0,0,Digit Zero,U+0030,FALSCH
+1,1,Digit One,U+0031,FALSCH
+2,2,Digit Two,U+0032,FALSCH
+3,3,Digit Three,U+0033,FALSCH
+4,4,Digit Four,U+0034,FALSCH
+5,5,Digit Five,U+0035,FALSCH
+6,6,Digit Six,U+0036,FALSCH
+7,7,Digit Seven,U+0037,FALSCH
+8,8,Digit Eight,U+0038,FALSCH
+9,9,Digit Nine,U+0039,FALSCH
+ , ,Space (SP),U+0020,FALSCH
+a,א,Hebrew Letter Alef,U+05D0,FALSCH
+b,ב,Hebrew Letter Bet,U+05D1,FALSCH
+c,צ,Hebrew Letter Tsadi,U+05E6,FALSCH
+d,ד,Hebrew Letter Dalet,U+05D3,FALSCH
+e,ֵ,Hebrew Point Tsere,U+05B5,WAHR
+f,שׂ,Hebrew Letter Shin with Sin Dot,U+FB2B,FALSCH
+g,ג,Hebrew Letter Gimel,U+05D2,FALSCH
+h,ה,Hebrew Letter He,U+05D4,FALSCH
+i,ִ,Hebrew Point Hiriq,U+05B4,WAHR
+j,ט,Hebrew Letter Tet,U+05D8,FALSCH
+k,כ,Hebrew Letter Kaf,U+05DB,FALSCH
+l,ל,Hebrew Letter Lamed,U+05DC,FALSCH
+m,מ,Hebrew Letter Mem,U+05DE,FALSCH
+n,נ,Hebrew Letter Nun,U+05E0,FALSCH
+o,ֹ,Hebrew Point Holam,U+05B9,WAHR
+p,פ,Hebrew Letter Pe,U+05E4,FALSCH
+q,ק,Hebrew Letter Qof,U+05E7,FALSCH
+r,ר,Hebrew Letter Resh,U+05E8,FALSCH
+s,ס,Hebrew Letter Samekh,U+05E1,FALSCH
+t,ת,Hebrew Letter Tav,U+05EA,FALSCH
+u,ֻ,Hebrew Point Qubuts,U+05BB,WAHR
+v,שׁ,Hebrew Letter Shin with Shin Dot,U+FB2A,FALSCH
+w,ו,Hebrew Letter Vav,U+05D5,FALSCH
+x,ח,Hebrew Letter Het,U+05D7,FALSCH
+y,י,Hebrew Letter Yod,U+05D9,FALSCH
+z,ז,Hebrew Letter Zayin,U+05D6,FALSCH
+A,וֹ,Hebrew Letter Vav with Holam,U+FB4B,FALSCH
+B,בּ,Hebrew Letter Bet with Dagesh,U+FB31,FALSCH
+C,צּ,Hebrew Letter Tsadi with Dagesh,U+FB46,FALSCH
+D,דּ,Hebrew Letter Dalet with Dagesh,U+FB33,FALSCH
+E,ֵ,Hebrew Point Tsere,U+05B5,WAHR
+F,שּׂ,Hebrew Letter Shin with Dagesh and Sin Dot,U+FB2D,FALSCH
+G,גּ,Hebrew Letter Gimel with Dagesh,U+FB32,FALSCH
+H,הּ,Hebrew Letter He with Mapiq,U+FB34,FALSCH
+I,ִ,Hebrew Point Hiriq,U+05B4,WAHR
+J,טּ,Hebrew Letter Tet with Dagesh,U+FB38,FALSCH
+K,כּ,Hebrew Letter Kaf with Dagesh,U+FB3B,FALSCH
+L,לּ,Hebrew Letter Lamed with Dagesh,U+FB3C,FALSCH
+M,מּ,Hebrew Letter Mem with Dagesh,U+FB3E,FALSCH
+N,נּ,Hebrew Letter Nun with Dagesh,U+FB40,FALSCH
+O,ֹ,Hebrew Point Holam,U+05B9,WAHR
+P,פּ,Hebrew Letter Pe with Dagesh,U+FB44,FALSCH
+Q,קּ,Hebrew Letter Qof with Dagesh,U+FB47,FALSCH
+R,רּ,Hebrew Letter Resh with Dagesh,U+FB48,FALSCH
+S,סּ,Hebrew Letter Samekh with Dagesh,U+FB41,FALSCH
+T,תּ,Hebrew Letter Tav with Dagesh,U+FB4A,FALSCH
+U,ֻ,Hebrew Point Qubuts,U+05BB,WAHR
+V,שּׁ,Hebrew Letter Shin with Dagesh and Shin Dot,U+FB2C,FALSCH
+W,וּ,Hebrew Letter Vav with Dagesh,U+FB35,FALSCH
+X,ש,Hebrew Letter Shin,U+05E9,FALSCH
+Y,יּ,Hebrew Letter Yod with Dagesh,U+FB39,FALSCH
+Z,זּ,Hebrew Letter Zayin with Dagesh,U+FB36,FALSCH
+!,ן,Hebrew Letter Final Nun,U+05DF,FALSCH
+"""",ָ,Hebrew Point Qamats,U+05B8,WAHR
+#,ץ,Hebrew Letter Final Tsadi,U+05E5,FALSCH
+$,ך,Hebrew Letter Final Kaf,U+05DA,FALSCH
+&,ךּ,Hebrew Letter Final Kaf with Dagesh,U+FB3A,FALSCH
+',ׇ,Hebrew Point Qamats Qatan,U+05C7,WAHR
+*,ֽ,Hebrew Point Meteg,U+05BD,WAHR
+-,ֿ,Hebrew Point Rafe,U+05BF,WAHR
+.,ְ,Hebrew Point Sheva,U+05B0,WAHR
+/,ֱ,Hebrew Point Hataf Segol,U+05B1,WAHR
+:,ַ,Hebrew Point Patah,U+05B7,WAHR
+;,ַ,Hebrew Point Patah,U+05B7,WAHR
+<,ֶ,Hebrew Point Segol,U+05B6,WAHR
+>,ְ,Hebrew Point Sheva,U+05B0,WAHR
+?,ֱ,Hebrew Point Hataf Segol,U+05B1,WAHR
+@,ף,Hebrew Letter Final Pe,U+05E3,FALSCH
+[,ע,Hebrew Letter Ayin,U+05E2,FALSCH
+\,ֳ,Hebrew Point Hataf Qamats,U+05B3,WAHR
+],ֲ,Hebrew Point Hataf Patah,U+05B2,WAHR
+_,֑,Hebrew Accent Etnahta,U+0591,WAHR
+`,׃,Hebrew Punctuation Sof Pasuq,U+05C3,WAHR
+{,ֹ,Hebrew Point Holam,U+05B9,WAHR
+|,ֳ,Hebrew Point Hataf Qamats,U+05B3,WAHR
+},ֲ,Hebrew Point Hataf Patah,U+05B2,WAHR
+~,ם,Hebrew Letter Final Mem,U+05DD,FALSCH
+(,ֽ,Hebrew Point Meteg,U+05BD,WAHR
+),ֽ,Hebrew Point Meteg,U+05BD,WAHR
++,֑,Hebrew Accent Etnahta,U+0591,WAHR
+-,ֿ,Hebrew Point Rafe,U+05BF,WAHR
+=,֑,Hebrew Accent Etnahta,U+0591,WAHR
+",",ֶ,Hebrew Point Segol,U+05B6,WAHR
